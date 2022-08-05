@@ -1,3 +1,6 @@
+#TABELAS
+
+```
 Tabela 1: Definições de endereços IPs da Rede e Nomes de Hosts
 --------------------------------------------------------------------------------------------------------
 |  DESCRICAO  |  IP             |   hostname        |          FQDN                 |     apelidos     |
@@ -5,6 +8,7 @@ Tabela 1: Definições de endereços IPs da Rede e Nomes de Hosts
 | rede        | 192.168.14.0    |                   |                               |                  |
 | máscara     | 255.255.255.240 |                   |                               |                  |
 | Gateway     | 192.168.14.1    |                   |                               |                  |
+| Broadcast   | 192.168.14.15   |                   |                               |                  |
 | VM1-PC1     | 192.168.14.1    |   srv-vm1-pc1     |  natalia1.grupo1.ifalara.net  |       nat1       |
 | VM2-PC1     | 192.168.14.2    |   srv-vm2-pc1     |  natalia2.grupo1.ifalara.net  |       nat2       |
 | VM1-PC2     | 192.168.14.3    |   srv-vm1-pc2     |  rafaela1.grupo1.ifalara.net  |       rafa1      |
@@ -14,3 +18,4 @@ Tabela 1: Definições de endereços IPs da Rede e Nomes de Hosts
 | VM1-PC4     | 192.168.14.7    |   srv-vm1-pc4     |  evelly1.grupo1.ifalara.net   |       eve1       |
 | VM2-PC4     | 192.168.14.8    |   srv-vm2-pc4     |  evelly2.grupo1.ifalara.net   |       eve2       |
 --------------------------------------------------------------------------------------------------------
+```
