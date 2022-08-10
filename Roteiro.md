@@ -7,4 +7,7 @@
 * alterar nome da VM
 * selecionar pasta de destino
 * gerar novos endereços MAC para todas as placas de rede
+<p><center> Figura 1: Criação da VM</center></p>
+<img src="figures/CriarVM.png" alt=""
+     title="Figura 1: Criação da VM" width="800" height="auto"/></br>
 
