@@ -21,7 +21,7 @@
      title="Figura 4: Pings com FQDN" width="1000" height="auto"/></br>
 
 <p><center> Figura 5: Pings com FQDN</center></p>
-<img src="figures/Captura de tela de 2022-08-24 10-37-55" alt=""
+<img src="figures/Captura de tela de 2022-08-24 10-37-55.png" alt=""
      title="Figura 5: Pings com FQDN" width="1000" height="auto"/></br>
 
 
