@@ -49,7 +49,7 @@
 * comando para verificação de usuários em uma máquina ``getent passwd``
 
 <p><center> Figura 7: Usuários</center></p>
-<img src="figures/criando usuário.png" alt=""
+<img src="figures/Captura de tela de 2022-08-12 10-37-22.png" alt=""
      title="Figura 7: Usuários" width="800" height="auto"/></br>
      
 
