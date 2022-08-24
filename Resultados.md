@@ -50,15 +50,15 @@
      
 ### SSH com FQDN
 <p><center> Figura 10: SSH com FQDN</center></p>
-<img src="figures/SSH FQDN 1.png" alt=""
+<img src="figures/Captura de tela de 2022-08-24 10-19-03.png" alt=""
      title="Figura 10: SSH com FQDN" width="1000" height="auto"/></br>
 
 <p><center> Figura 11: SSH com FQDN</center></p>
-<img src="figures/SSH FQDN 2.png" alt=""
+<img src="figures/Captura de tela de 2022-08-24 10-18-59.png" alt=""
      title="Figura 11: SSH com FQDN" width="1000" height="auto"/></br>
      
 <p><center> Figura 12: SSH com FQDN</center></p>
-<img src="figures/Captura de tela de 2022-08-10 11-14-43.png" alt=""
+<img src="figures/Captura de tela de 2022-08-24 10-18-54.png" alt=""
      title="Figura 12: SSH com FQDN" width="1000" height="auto"/></br>
      
 ### SSH com hostname
