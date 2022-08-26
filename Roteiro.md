@@ -66,7 +66,7 @@
 * editar arquivo ``01-netcfg.yaml``, comentando as alterações que tinham sido feitas no passo anterior
 ##### Atualizando definições e versões de pacotes/bibliotecas
 * ``sudo apt update``
-* ``sudo apt update -y``
+* ``sudo apt upgrade -y``
 
 ### Instalando o SSH
 * verificar o estado do SSH: ``systemctl status ssh``
