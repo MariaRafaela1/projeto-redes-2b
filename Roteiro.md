@@ -116,6 +116,6 @@
 * adicionar informações da tabela
 
 <p><center> Figura 16: Arquivo hosts editado</center></p>
-<img src="figures/etc hosts 1 Rafa.png" alt=""
+<img src="figures/telaHosts.png" alt=""
      title="Figura 16: Arquivo hosts editado" width="800" height="auto"/></br>
 
