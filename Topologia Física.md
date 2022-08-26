@@ -1,5 +1,6 @@
 # Topologia Física
 ### Imagens referentes a topologia da rede montada
+Para a montagem da rede, foram utilizados 4 cabos Ethernet, 1 switch e 4 desktops, com 2 máquinas virtuais(VM) em cada desktop
 
 ## Topologia
 <p><center> Figura 1: Topologia de rede</center></p>
